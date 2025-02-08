@@ -1,0 +1,1 @@
+enum WeatherCondition { gloomy, sunny, rainy, unknown} // the different weather condition states that are possible values in the app including unknown
